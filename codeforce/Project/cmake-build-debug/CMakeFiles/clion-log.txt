@@ -1,0 +1,39 @@
+/home/anonimous/Downloads/clion-2019.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/lib/gcc/ -DCMAKE_CXX_COMPILER=/usr/lib/gcc/ -G "CodeBlocks - Unix Makefiles" "/home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project"
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
+-- Check for working C compiler: /usr/lib/gcc/
+-- Check for working C compiler: /usr/lib/gcc/ -- broken
+CMake Error at /home/anonimous/Downloads/clion-2019.3/bin/cmake/linux/share/cmake-3.15/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "/usr/lib/gcc/"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/usr/bin/make cmTC_0eb4e/fast && /usr/bin/make -f CMakeFiles/cmTC_0eb4e.dir/build.make CMakeFiles/cmTC_0eb4e.dir/build
+    make[1]: Entering directory '/home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_0eb4e.dir/testCCompiler.c.o
+    /usr/lib/gcc/    -o CMakeFiles/cmTC_0eb4e.dir/testCCompiler.c.o   -c "/home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
+    /bin/sh: 1: /usr/lib/gcc/: Permission denied
+    CMakeFiles/cmTC_0eb4e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0eb4e.dir/testCCompiler.c.o' failed
+    make[1]: *** [CMakeFiles/cmTC_0eb4e.dir/testCCompiler.c.o] Error 126
+    make[1]: Leaving directory '/home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Makefile:121: recipe for target 'cmTC_0eb4e/fast' failed
+    make: *** [cmTC_0eb4e/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/anonimous/Documents/SANDY SIHOTANG/cpp/codeforce/Project/cmake-build-debug/CMakeFiles/CMakeError.log".

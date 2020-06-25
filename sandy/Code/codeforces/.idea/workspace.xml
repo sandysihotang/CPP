@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13c8b91-23dd-4722-a5fb-cd28062ad406" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1UHAUyMreLoEwB0dgYupFrVpriJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13c8b91-23dd-4722-a5fb-cd28062ad406" name="Default Changelist" comment="" />
+      <created>1575003170932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575003170932</updated>
+      <workItem from="1575003182510" duration="504000" />
+      <workItem from="1575029140990" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575003685653">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="418" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1575003685653" />
+    <state x="743" y="314" width="424" height="482" key="FileChooserDialogImpl" timestamp="1575029398586">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="482" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1575029398586" />
+    <state x="449" y="191" key="SettingsEditor" timestamp="1575003645571">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="449" y="191" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1575003645571" />
+    <state x="616" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1575029331578">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="616" y="383" key="com.intellij.ide.util.TipDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1575029331578" />
+  </component>
+</project>
